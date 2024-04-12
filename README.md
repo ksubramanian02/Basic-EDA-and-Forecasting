@@ -1,4 +1,4 @@
-Project Topic: Bike Traffic
+## Project Topic: Bike Traffic
 
 The nyc_bicycle_counts_2016.csv gives information on bike traffic across a number of bridges in New York City. In this path, the analysis questions we would like you to answer are as follows:
 
