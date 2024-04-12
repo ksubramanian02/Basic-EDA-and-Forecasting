@@ -1,6 +1,6 @@
-## Project Topic: Bike Traffic
+# Project Topic: Bike Traffic
 
-The objectives include: 
+## Objectives include: 
 
 Identifying bridges to install the sensors on to get the best prediction of overall traffic?
 Understanding if the next day's weather forecast(low/high temperature and precipitation) can be used to predict the total number of bicyclists that day?
